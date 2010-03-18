@@ -2,7 +2,7 @@ A idéia se consiste no seguinte: um sistema que busque em tempo real no EzRSS (
 
 A aplicação consiste nos seguintes módulos:
 
- - list: lista todas as séries cadastras
+ - list: lista todas as séries cadastradas
  - search - lista todas as séries disponíveis (baseado no ezrss)
  - add - adiciona série
  - remove - remove série
